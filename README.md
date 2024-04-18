@@ -1,4 +1,4 @@
-# Autopilot Proojects
+# Autopilot Projects
 This repository have autopilot projects media.
 
 ## Line Follower
